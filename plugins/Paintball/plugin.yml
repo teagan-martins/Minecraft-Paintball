@@ -1,0 +1,7 @@
+name: Paintball
+version: 1.0
+api-version: 1.15
+author: Teagan
+main: me.teagan.Paintball.Main
+description: shoots a paintball on right-click of a dye
+
